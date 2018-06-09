@@ -1,0 +1,906 @@
+[
+    {
+        "name": "20180527 RM北部分区赛 第69场 山东科技大学vs哈尔滨工业大学",
+        "src": "https://cn-videos.dji.net/video_trans/4ffeb8ee25f24412897bd7de051fdedb/720.mp4?auth_key=1528143807-0-0-8b56a6b413ba3a66cfd94a0047faee96"
+    },
+    {
+        "name": "20180527 RM北部分区赛 第68场 大连交通大学vs中国石油大学（北京） 第五局",
+        "src": "https://cn-videos.dji.net/video_trans/21870e0fd96e4de3b4278d018d7ebedd/720.mp4?auth_key=1528143658-0-0-904e7bac9ad02eb8aba54105e03ccd37"
+    },
+    {
+        "name": "20180527 RM北部分区赛 第68场 大连交通大学vs中国石油大学（北京） 第四局",
+        "src": "https://cn-videos.dji.net/video_trans/50da7fcb82994c6b9df27ba333880b10/720.mp4?auth_key=1528143522-0-0-29ea8e793cf71f32df59ec4768cb5d3b"
+    },
+    {
+        "name": "20180527 RM北部分区赛 第68场 大连交通大学vs中国石油大学（北京）第三局",
+        "src": "https://cn-videos.dji.net/video_trans/7c3fc9744d364c5697ef1af305b30c83/720.mp4?auth_key=1528143351-0-0-1b405f46ae52fb5028833f3a2a65a385"
+    },
+    {
+        "name": "20180527 RM北部分区赛 第68场 大连交通大学vs中国石油大学（北京） 第二局",
+        "src": "https://cn-videos.dji.net/video_trans/1f49832786aa4ff2abd24b089746aace/720.mp4?auth_key=1528142033-0-0-727c5a5ab6d2de0d062e0c4fe9105f37"
+    },
+    {
+        "name": "20180527 RM北部分区赛 第68场 大连交通大学vs中国石油大学（北京） 第一局",
+        "src": "https://cn-videos.dji.net/video_trans/c918d1d1a1d94700a44a5e9f0f5fd3c6/720.mp4?auth_key=1528141982-0-0-5d021e05384875bb96a4a4d25c25af49%22"
+    },
+    {
+        "name": "20180526 RM北部分区赛 第67场 哈尔滨工业大学vs中国石油大学（北京）",
+        "src": "https://cn-videos.dji.net/video_trans/311a63fb256f4cd59ceb2ce181e0ab93/720.mp4?auth_key=1527447469-0-0-9c465c4d7756663035d04bbb27167a84"
+    },
+    {
+        "name": "20180526 RM北部分区赛 第66场 大连交通大学vs山东科技大学",
+        "src": "https://cn-videos.dji.net/video_trans/e0c1b8975b714d2b89a6cba9e3761938/720.mp4?auth_key=1527447410-0-0-c5997eb935d0676f083bbaf36ae8e1e9"
+    },
+    {
+        "name": "20180526 RM北部分区赛 第65场 辽宁工业大学vs东北大学",
+        "src": "https://cn-videos.dji.net/video_trans/fe0783e35b59406f921d7ecc1749241a/720.mp4?auth_key=1527445263-0-0-426ee1bb23e7ed3bacca9ae8a3b146b4"
+    },
+    {
+        "name": "20180526 RM北部分区赛 第64场 北京科技大学vs华北理工大学",
+        "src": "https://cn-videos.dji.net/video_trans/04dfe0edb75b41f8a46553e58010823e/720.mp4?auth_key=1527444897-0-0-8722342e87bbb02ce8a369643243ad56"
+    },
+    {
+        "name": "20180526 RM北部分区赛 第63场 北方工业大学vs华北科技学院",
+        "src": "https://cn-videos.dji.net/video_trans/927cb9301819431e921593a18b1333f7/720.mp4?auth_key=1527444503-0-0-04fb539b733cf20c9fcb11e6c6a32ea9"
+    },
+    {
+        "name": "20180526 RM北部分区赛 第62 燕山大学vs天津大学",
+        "src": "https://cn-videos.dji.net/video_trans/876379d4a31d4b3f89075123f43433a8/720.mp4?auth_key=1527444094-0-0-5a0792bd1599e03814270b132f0686aa"
+    },
+    {
+        "name": "20180526 RM北部分区赛 第61场 中国石油大学（北京）vs辽宁工业大学",
+        "src": "https://cn-videos.dji.net/video_trans/eb553abb5c2d4edebed909445661626f/720.mp4?auth_key=1527443467-0-0-be48d12e1205d8f906679ac6cc8298a1"
+    },
+    {
+        "name": "20180526 RM北部分区赛 第60场 北京科技大学vs山东科技大学",
+        "src": "https://cn-videos.dji.net/video_trans/37ee3a0cb5624b149ff7b785d701d95e/720.mp4?auth_key=1527443438-0-0-a9d18be5515add7f19ce35621da88703"
+    },
+    {
+        "name": "20180526 RM北部分区赛 第59场 北方工业大学vs哈尔滨工业大学",
+        "src": "https://cn-videos.dji.net/video_trans/ba8fb12f017842568e79e82573d9c315/720.mp4?auth_key=1527443411-0-0-dfaae3e77141e0a99de7a4fa3f0f8472"
+    },
+    {
+        "name": "20180526 RM北部分区赛 第58场 燕山大学vs大连交通大学",
+        "src": "https://cn-videos.dji.net/video_trans/16ff3bae839a4fbda5545a277030106e/720.mp4?auth_key=1527443388-0-0-869843b7ebd25968856807f92b5ad838"
+    },
+    {
+        "name": "20180526 RM北部分区赛 第57场 东北大学vs防灾科技学院",
+        "src": "https://cn-videos.dji.net/video_trans/178475c3f3a448e08f565a12b0a5c2ed/720.mp4?auth_key=1527443358-0-0-eaf55eaca53acb555dd984e1687487b9"
+    },
+    {
+        "name": "20180526 RM北部分区赛 第56场 沈阳航空航天大学vs华北理工大学",
+        "src": "https://cn-videos.dji.net/video_trans/207c3b98daa641e8966563bee32c0d43/720.mp4?auth_key=1527443328-0-0-174ff59aaf828b41e7666edf13cd6191"
+    },
+    {
+        "name": "20180526 RM北部分区赛 第55场 华北科技学院vs辽宁科技大学",
+        "src": "https://cn-videos.dji.net/video_trans/4366baccec244aa3a491fcfa7f649fdc/720.mp4?auth_key=1527443290-0-0-1d07273aa858b596e3b69eadf113bd3a"
+    },
+    {
+        "name": "20180526 RM北部分区赛 第54场 哈尔滨工业大学（威海）vs天津大学",
+        "src": "https://cn-videos.dji.net/video_trans/dbb1c714258344b998f9745bb88342b2/720.mp4?auth_key=1527443258-0-0-4f4a086f9d0177635c4c7e1bb1a773c2"
+    },
+    {
+        "name": "20180526 RM北部分区赛 第53场 辽宁工业大学vs防灾科技学院",
+        "src": "https://cn-videos.dji.net/video_trans/087037e308d6496cbf3720b275e2f2ce/720.mp4?auth_key=1527443228-0-0-af80a725c9dec5d87bd949aa88a2c8fd"
+    },
+    {
+        "name": "20180526 RM北部分区赛 第52场 山东科技大学vs华北理工大学",
+        "src": "https://cn-videos.dji.net/video_trans/271557de36de486d9ca99b5f52563e35/720.mp4?auth_key=1527443198-0-0-e77c0d860e2e63e1dfeed20f8f6c2b33"
+    },
+    {
+        "name": "20180526 RM北部分区赛 第51场 哈尔滨工业大学vs辽宁科技大学",
+        "src": "https://cn-videos.dji.net/video_trans/3209d2919c374c1d8db5fa3814b44f1f/720.mp4?auth_key=1527443161-0-0-cc4306fe4ca11876196fbf02eb6ceddc"
+    },
+    {
+        "name": "20180526 RM北部分区赛 第50场 大连交通大学vs天津大学",
+        "src": "https://cn-videos.dji.net/video_trans/023c714522e54e24a1314aad851449c3/720.mp4?auth_key=1527443103-0-0-998577dea1ab99a5b90491bfd3116045"
+    },
+    {
+        "name": "20180526 RM北部分区赛 第49场 中国石油大学（北京）vs东北大学",
+        "src": "https://cn-videos.dji.net/video_trans/1cd1067580894afc84251d62cabae841/720.mp4?auth_key=1527443043-0-0-7d1298658a4375d67e4cbbbd8959ea2c"
+    },
+    {
+        "name": "20180526 RM北部分区赛 第48场 北京科技大学vs沈阳航空航天大学",
+        "src": "https://cn-videos.dji.net/video_trans/6747495c0d0b46f6914dd702cdf19a2e/720.mp4?auth_key=1527442995-0-0-a5c03e13eda651e39764be2000f85a75"
+    },
+    {
+        "name": "20180525 RM北部分区赛 第47场 北方工业大学vs华北科技学院",
+        "src": "https://cn-videos.dji.net/video_trans/09c338303fc242e38772a6c80d448300/720.mp4?auth_key=1528139639-0-0-9f945a28e9dd8607935bf85cc5131ad2"
+    },
+    {
+        "name": "20180525 RM北部分区赛 第46场 燕山大学vs哈尔滨工业大学（威海）",
+        "src": "https://cn-videos.dji.net/video_trans/07ad1fdbfcb740a9aa60ed93ca75511e/720.mp4?auth_key=1528139602-0-0-02660e954594c680e90cd7e236c45dbd"
+    },
+    {
+        "name": "20180525 RM北部分区赛 第45场 哈尔滨工业大学vs北京理工大学",
+        "src": "https://cn-videos.dji.net/video_trans/261917920e4846c891174f5c0029e55c/720.mp4?auth_key=1528139557-0-0-70e40138ce47d99d64b5f8905455e875"
+    },
+    {
+        "name": "20180525 RM北部分区赛 第44场 沈阳大学vs大连交通大学",
+        "src": "https://cn-videos.dji.net/video_trans/e1b044744a6443d3a0b05ca70855803a/720.mp4?auth_key=1528139494-0-0-3ea560bf321c983d07c0098bf6debd79"
+    },
+    {
+        "name": "20180525 RM北部分区赛 第43场 河北轨道运输职业技术学院vs辽宁工业大学",
+        "src": "https://cn-videos.dji.net/video_trans/f05f28a8d76548248a362fbb7a76e3b6/720.mp4?auth_key=1528139302-0-0-17ef334c5db4c28157460999af07ae65"
+    },
+    {
+        "name": "20180525 RM北部分区赛 第42场 山东科技大学vs华北科技学院",
+        "src": "https://cn-videos.dji.net/video_trans/0efd328ebb87460d9ca4ef727b63165d/720.mp4?auth_key=1528139251-0-0-52847d7fead187563f670136f7b98524"
+    },
+    {
+        "name": "20180525 RM北部分区赛 第41场 中国石油大学（北京）vs天津大学",
+        "src": "https://cn-videos.dji.net/video_trans/1441e9daca4d4aa4811c8b9d1a04001f/720.mp4?auth_key=1528139210-0-0-821d23b4c2b783d65229933080dd590a"
+    },
+    {
+        "name": "20180525 RM北部分区赛 第40场 辽宁科技大学vs北京科技大学",
+        "src": "https://cn-videos.dji.net/video_trans/0349329796bc41c2954904e7765fbfb0/720.mp4?auth_key=1528139162-0-0-782b5bf76beaca1423c60d8677fdaa6f"
+    },
+    {
+        "name": "20180525 RM北部分区赛 第39场 华北理工大学vs北方工业大学",
+        "src": "https://cn-videos.dji.net/video_trans/e66fad544c884f31aaeb3e62ff9410ac/720.mp4?auth_key=1528139081-0-0-ce8da7331c5a4ff017ba487eef25b0c2"
+    },
+    {
+        "name": "20180525 RM北部分区赛 第38场 沈阳工业大学vs哈尔滨工业大学(威海)",
+        "src": "https://cn-videos.dji.net/video_trans/b5891bd1bd3746a09dde130caf2c11fc/720.mp4?auth_key=1528139037-0-0-f9476a8ac7549423d85fc96b4860840f"
+    },
+    {
+        "name": "20180525 RM北部分区赛 第37场 成都工业学院vs哈尔滨工程大学",
+        "src": "https://cn-videos.dji.net/video_trans/750ff1230ebb4db69c9dc78d58fc6206/720.mp4?auth_key=1527363973-0-0-9830f4ae0753ab7298c846e51fcbf7fe"
+    },
+    {
+        "name": "20180525 RM北部分区赛 第36场 河北科技大学vs沈阳航空航天大学",
+        "src": "https://cn-videos.dji.net/video_trans/1941fd994e91463da79cebbcc3221b53/720.mp4?auth_key=1527363948-0-0-3d6e83a0a7d67f9e3437a800a32286ac"
+    },
+    {
+        "name": "20180525 RM北部分区赛 第35场 黑龙江大学vs东北大学",
+        "src": "https://cn-videos.dji.net/video_trans/7e08118b45c14667b0dc39044fa2f5d4/720.mp4?auth_key=1527363916-0-0-69882b08b0571a710532d024cd585167"
+    },
+    {
+        "name": "20180525 RM北部分区赛 第34场 天津商业大学vs重庆理工大学",
+        "src": "https://cn-videos.dji.net/video_trans/39d2f40e29154f2cb0595a5904656590/720.mp4?auth_key=1527363853-0-0-caffe1b2611a352cf8d265f97b78e102"
+    },
+    {
+        "name": "20180525 RM北部分区赛 第33场 黑河学院vs沈阳建筑大学",
+        "src": "https://cn-videos.dji.net/video_trans/6d249cc1fe554f1ba247c1dbc54bcfe0/720.mp4?auth_key=1527363820-0-0-b0177148bf2842f55c4abf7ddb816607"
+    },
+    {
+        "name": "20180525 RM北部分区赛 第32场 中国地质大学（北京）vs中央民族大学",
+        "src": "https://cn-videos.dji.net/video_trans/38244ac3aac047639fef9f91f861597c/720.mp4?auth_key=1527363792-0-0-46e68e32906d0c2630c6c0104dc48bfb"
+    },
+    {
+        "name": "20180525 RM北部分区赛 第31场 防灾科技学院vs中国石油大学（北京）克拉玛依",
+        "src": "https://cn-videos.dji.net/video_trans/389e11181feb42df83224ad4452a5a25/720.mp4?auth_key=1527363755-0-0-1542ed554fd945fec7272a21953cd31b"
+    },
+    {
+        "name": "20180525 RM北部分区赛 第30场 辽宁工业大学vs哈尔滨工业大学（威海）",
+        "src": "https://cn-videos.dji.net/video_trans/1675a652783f434ba15bbe2f45a387ea/720.mp4?auth_key=1527363719-0-0-a42533831f408b2a4e2838ce54709898"
+    },
+    {
+        "name": "20180525 RM北部分区赛 第29场 华北科技学院vs哈尔滨工程大学",
+        "src": "https://cn-videos.dji.net/video_trans/407ef30101d943b0b79a79f31afd9599/720.mp4?auth_key=1527363647-0-0-1e200555cd3c158c38e60fabdd447f33"
+    },
+    {
+        "name": "20180525 RM北部分区赛 第28场 北京理工大学vs沈阳航空航天大学",
+        "src": "https://cn-videos.dji.net/video_trans/e85d33372cce4b95bba2a69919e65c8f/720.mp4?auth_key=1527363609-0-0-0d3aa542f9a597cb3a94de7eb0a9d646"
+    },
+    {
+        "name": "20180525 RM北部分区赛 第27场 大连交通大学vs东北大学",
+        "src": "https://cn-videos.dji.net/video_trans/d97c424ce8c34c04a5410551a78311c1/720.mp4?auth_key=1527363577-0-0-3a83b4186d5fa6accf954df772b81344"
+    },
+    {
+        "name": "20180525 RM北部分区赛 第26场 天津大学vs重庆理工大学",
+        "src": "https://cn-videos.dji.net/video_trans/96c09bd6ecc24724a0e3314c867c47eb/720.mp4?auth_key=1527363550-0-0-dfcb5a45f9309f8170d56dc087ac140c"
+    },
+    {
+        "name": "20180525 RM北部分区赛 第25场 北京科技大学vs沈阳建筑大学",
+        "src": "https://cn-videos.dji.net/video_trans/da8c3d37a69443488cd61fbd80660058/720.mp4?auth_key=1527363473-0-0-cccf3e2965ff2d1a54954d7fcf12b373"
+    },
+    {
+        "name": "20180525 RM北部分区赛 第24场 北方工业大学vs中央民族大学",
+        "src": "https://cn-videos.dji.net/video_trans/53ed7842adb1456ebdb80895fce31ad8/720.mp4?auth_key=1527363453-0-0-a6d7246d8ec2dd8616545aa75900633e"
+    },
+    {
+        "name": "20180524 RM北部分区赛 第23场 河北轨道运输职业技术学院vs沈阳工业大学",
+        "src": "https://cn-videos.dji.net/video_trans/4eb481777e0f4506966754ab8cd0a91a/720.mp4?auth_key=1527339075-0-0-aab378fe2177a3b848c7416b8e46f920"
+    },
+    {
+        "name": "20180524 RM北部分区赛 第22场 山东科技大学vs成都工业学院",
+        "src": "https://cn-videos.dji.net/video_trans/df4fa5e8093d445885eb0971eeb86c77/720.mp4?auth_key=1527339053-0-0-2e00abe718a283e342c07b82ef584a3a"
+    },
+    {
+        "name": "20180524 RM北部分区赛 第20场 沈阳大学vs黑龙江大学",
+        "src": "https://cn-videos.dji.net/video_trans/35100675b439409fa0c80e8e34d64fe1/720.mp4?auth_key=1527338992-0-0-216201c595500b791158ede3d0601996"
+    },
+    {
+        "name": "20180524 RM北部分区赛 第19场 中国石油大学（北京）vs天津商业大学",
+        "src": "https://cn-videos.dji.net/video_trans/c690f36970c0408cb92fe57cec267aa7/720.mp4?auth_key=1527338964-0-0-11119889ea52279fefe8bc9f1f2d7099"
+    },
+    {
+        "name": "20180524 RM北部分区赛 第18场 辽宁科技大学vs黑河学院",
+        "src": "https://cn-videos.dji.net/video_trans/47e1ab9a664049b19cabd888195ba3a3/720.mp4?auth_key=1527338939-0-0-b3745abe42cf7db1243984b3638b7f23"
+    },
+    {
+        "name": "20180524 RM北部分区赛 第17场 华北理工大学vs中国地质大学（北京）",
+        "src": "https://cn-videos.dji.net/video_trans/27d7956d0d4c46c6b3823745b252126b/720.mp4?auth_key=1527338906-0-0-18dcf8c915198176a734e660bb2cdbdc"
+    },
+    {
+        "name": "20180524 RM北部分区赛 第16场 燕山大学vs防灾科技学院",
+        "src": "https://cn-videos.dji.net/video_trans/cd45f13554974ae4a8f418ccdd54fb92/720.mp4?auth_key=1527338878-0-0-ef2eeca083c195865fe799a23778ec90"
+    },
+    {
+        "name": "20180524 RM北部分区赛 第15场 哈尔滨工业大学（威海）vs河北轨道运输职业技术学院",
+        "src": "https://cn-videos.dji.net/video_trans/e133ef64cf1042d2a5307e45a6a1123c/720.mp4?auth_key=1527338841-0-0-0ee931d1efbeb79d3ebab5b9c4bdf8ab"
+    },
+    {
+        "name": "20180524 RM北部分区赛 第14场 哈尔滨工程大学vs山东科技大学",
+        "src": "https://cn-videos.dji.net/video_trans/835fdbcea5e24eb48596be9aea601e87/720.mp4?auth_key=1527338809-0-0-7429ea4936e300871cda5acd779bd124"
+    },
+    {
+        "name": "20180524 RM北部分区赛 第13场 沈阳航空航天大学vs哈尔滨工业大学",
+        "src": "https://cn-videos.dji.net/video_trans/018e914df59844388250ebd10ad830af/720.mp4?auth_key=1527338772-0-0-b76a12abd5c60ffe63630a36be1ee6e8"
+    },
+    {
+        "name": "20180524 RM北部分区赛 第12场 东北大学vs沈阳大学",
+        "src": "https://cn-videos.dji.net/video_trans/5ad5310aea3145d2861a569f25b79b09/720.mp4?auth_key=1527338727-0-0-ab266c9c865178fd67ab482ff90b3d73"
+    },
+    {
+        "name": "20180524 RM北部分区赛 第11场 重庆理工大学vs中国石油大学（北京）",
+        "src": "https://www.robomaster.com/live/https%EF%BC%9A//cn-videos.dji.net/video_trans/f6de0ebc99904b7993fd325d506e6621/720.mp4?auth_key=1527889922-0-0-b981a8442c4570c88313fd7b54067382"
+    },
+    {
+        "name": "20180524 RM北部分区赛 第10场 沈阳建筑大学vs辽宁科技大学",
+        "src": "https://cn-videos.dji.net/video_trans/6f8f5265e0b04ba5a59f5f5bfdab48e1/720.mp4?auth_key=1527338264-0-0-4b58bd19be9acbc308edba154774922e"
+    },
+    {
+        "name": "20180524 RM北部分区赛 第9场 中央民族大学vs华北理工大学",
+        "src": "https://cn-videos.dji.net/video_trans/bbc38a9d0c254d14a8a236ac6af6ee53/720.mp4?auth_key=1527338221-0-0-24a90e1351859fd5ef83f85385c6da23"
+    },
+    {
+        "name": "20180524 RM北部分区赛 第8场 中国石油大学（北京）vs燕山大学",
+        "src": "https://cn-videos.dji.net/video_trans/89380b693ad64ebdb4ef3984966ecc71/720.mp4?auth_key=1527338186-0-0-c080da8672ca3c5f2f4fa011c41941af"
+    },
+    {
+        "name": "20180524 RM北部分区赛 第7场 沈阳工业大学vs辽宁工业大学",
+        "src": "https://cn-videos.dji.net/video_trans/b82a99a4bbe947cd8a35f7591392147d/720.mp4?auth_key=1527338149-0-0-f0410d430b0ea8a4013060cad548951d"
+    },
+    {
+        "name": "20180524 RM北部分区赛 第6场 成都工业学院vs华北科技学院",
+        "src": "https://cn-videos.dji.net/video_trans/ef9268d0bbf84a98a5e772099223d669/720.mp4?auth_key=1527338099-0-0-3c4baadc2b7f62384a2b635b49a62843"
+    },
+    {
+        "name": "20180524 RM北部分区赛 第5场 河北科技大学vs北京理工大学",
+        "src": "https://cn-videos.dji.net/video_trans/7d01e41e3bf14d8cac2c97880c17da29/720.mp4?auth_key=1527338063-0-0-0e20925bf88d403faeb344f459052fc5"
+    },
+    {
+        "name": "20180524 RM北部分区赛 第4场 黑龙江大学vs大连交通大学",
+        "src": "https://cn-videos.dji.net/video_trans/f88398331ae24f37815164aa5fbb0790/720.mp4?auth_key=1527338023-0-0-86eb4c29d2d4ac70959d2a9fca0c067b"
+    },
+    {
+        "name": "20180524 RM北部分区赛 第3场 天津商业大学vs天津大学",
+        "src": "https://cn-videos.dji.net/video_trans/814af78430264b50acffd7ad095ba1cd/720.mp4?auth_key=1527337986-0-0-d56faf6007158a4808d572ec9cba26f7"
+    },
+    {
+        "name": "20180524 RM北部分区赛 第2场 黑河学院vs北京科技大学",
+        "src": "https://cn-videos.dji.net/video_trans/b40ae53cf61c473bb28cd703d07f4eea/720.mp4?auth_key=1527337731-0-0-01dd8a60a499650a5e91d595e9db38b3"
+    },
+    {
+        "name": "20180524 RM北部分区赛 第1场 中国地质大学（北京）vs北方工业大学",
+        "src": "https://cn-videos.dji.net/video_trans/82d896f174fa46a1be70d8b3bef5ecb0/720.mp4?auth_key=1527337936-0-0-035bbb802de1b4cec6aa7753e685312f"
+    },
+    {
+        "name": "20180520 RM中部分区赛 第77场 东北林业大学vs中国矿业大学",
+        "src": "https://cn-videos.dji.net/video_trans/ff5a07a40829487684157f803e2da8f2/720.mp4?auth_key=1527164819-0-0-ddd8d081460e0ab4b61deb202f52cfae"
+    },
+    {
+        "name": "20180520 RM中部分区赛 第76场 华中科技大学vs同济大学",
+        "src": "https://cn-videos.dji.net/video_trans/d296f6e1e6244ce2994f34bc9e31c523/720.mp4?auth_key=1527164756-0-0-8586708bbc99e55e8e6724ff7552c281"
+    },
+    {
+        "name": "20180520 RM中部分区赛 第75场 中国矿业大学vs同济大学",
+        "src": "https://cn-videos.dji.net/video_trans/d667b8f664c2400ab5738a8bc2351131/720.mp4?auth_key=1527164500-0-0-ba3646a4a28401f7623e1efcbbdf3144"
+    },
+    {
+        "name": "20180520 RM中部分区赛 第74场 华中科技大学vs东北林业大学",
+        "src": "https://cn-videos.dji.net/video_trans/c8f936c1e55348fcb14e80b6d0e5d230/720.mp4?auth_key=1527164398-0-0-2ed037419381c239420390e55f9712c7"
+    },
+    {
+        "name": "20180520 RM中部分区赛 第73场 太原工业学院vs电子科技大学成都学院",
+        "src": "https://cn-videos.dji.net/video_trans/0541c144796d4c928e4c6eb05c9c53ea/720.mp4?auth_key=1527164248-0-0-49deb0324da4fe270a62fb8d80345599"
+    },
+    {
+        "name": "20180520 RM中部分区赛 第72场 上海交通大学vs太原理工大学",
+        "src": "https://cn-videos.dji.net/video_trans/0e6a8285093e4639b5ad8cc13175e8eb/720.mp4?auth_key=1527118645-0-0-6905396deb8d6edea7e804014adb4926"
+    },
+    {
+        "name": "20180520 RM中部分区赛 第71场 西安交通大学vs电子科技大学成都学院",
+        "src": "https://cn-videos.dji.net/video_trans/0a17a997c8f0424b877bd45193e341fe/720.mp4?auth_key=1527108608-0-0-"
+    },
+    {
+        "name": "20180520 RM中部分区赛 第70场 太原工业学院vs太原科技大学",
+        "src": "https://cn-videos.dji.net/video_trans/f1249acf65aa44e9abd7dbabeb201e10/720.mp4?auth_key=1527108517-0-0-1e5a0356cef51b371c9044e11ef0e303"
+    },
+    {
+        "name": "20180519 RM中部分区赛 第69场 太原理工大学vs南京理工大学",
+        "src": "https://cn-videos.dji.net/video_trans/29777e5bfa7b441d894bb89b5c9a24b9/1080.mp4?auth_key=1526823157-0-0-f3401b868f2b58871728f628b4fb6052"
+    },
+    {
+        "name": "20180519 RM中部分区赛 第68场 浙江纺织服装学院vs上海交通大学",
+        "src": "https://cn-videos.dji.net/video_trans/59d71db1af614ac7a9b32b6a516add7f/1080.mp4?auth_key=1526823126-0-0-31c4c321e4aabc72f42a688792bc0d1e"
+    },
+    {
+        "name": "20180519 RM中部分区赛 第67场 上海科技大学vs东南大学",
+        "src": "https://cn-videos.dji.net/video_trans/d995216883274d7eb40f5527c62e8987/1080.mp4?auth_key=1526823024-0-0-a19c09d90880921d16b425d52df3ba19"
+    },
+    {
+        "name": "20180519 RM中部分区赛 第66场 西安交通大学vs同济大学",
+        "src": "https://cn-videos.dji.net/video_trans/888cfaa754a34ca6ae3ccef28bea184c/1080.mp4?auth_key=1526822977-0-0-3f6b70a038cfa2569d9a0f2ce7260e1b"
+    },
+    {
+        "name": "20180519 RM中部分区赛 第65场 太原工业学院vs东北林业大学",
+        "src": "https://cn-videos.dji.net/video_trans/f98ef4cb4eea4b53b57efa152cc90a72/1080.mp4?auth_key=1526822928-0-0-2cb6a662163a91f69effb06ecfda1423"
+    },
+    {
+        "name": "20180519 RM中部分区赛 第64场 太原理工大学vs中国矿业大学",
+        "src": "https://cn-videos.dji.net/video_trans/22b7d139bc8d48dbaa72485fa271ed9c/1080.mp4?auth_key=1526815584-0-0-bc3b1a36bba897c4b842a23601b4ceca"
+    },
+    {
+        "name": "20180519 RM中部分区赛 第63场 华中科技大学vs浙江纺织服装学院",
+        "src": "https://cn-videos.dji.net/video_trans/794a36e8079849debee2470a69676427/1080.mp4?auth_key=1526815551-0-0-2236513fa84906c5277166744d185708"
+    },
+    {
+        "name": "20180519 RM中部分区赛 第62场 浙江大学vs东南大学",
+        "src": "https://cn-videos.dji.net/video_trans/4773f3ebf2f6483d8cbdc53267ec872d/1080.mp4?auth_key=1526815003-0-0-d8e6e801c4fe17e73bceb4a34b7499cd"
+    },
+    {
+        "name": "20180519 RM中部分区赛 第61场 安徽信息工程学院vs上海科技大学",
+        "src": "https://cn-videos.dji.net/video_trans/c2d97bc72a4241f994ed7a515ddc01cb/1080.mp4?auth_key=1526814826-0-0-b8ca00978c2d3a31b07587072ce21235"
+    },
+    {
+        "name": "20180519 RM中部分区赛 第60场 东南大学vs电子科技大学成都学院",
+        "src": "https://cn-videos.dji.net/video_trans/64f364deb3a64c7aa820ef3783364b6e/1080.mp4?auth_key=1526814783-0-0-9bce894ac6ef9ff83d400563026a9e01"
+    },
+    {
+        "name": "20180519 RM中部分区赛 第59场 上海科技大学vs南京理工大学",
+        "src": "https://cn-videos.dji.net/video_trans/8b53eaf829894780a879d385504cd8c6/1080.mp4?auth_key=1526812763-0-0-4916ffb4f6d5dbdf787f81d1927221fb"
+    },
+    {
+        "name": "20180519 RM中部分区赛 第58场 太原科技大学vs浙江大学",
+        "src": "https://cn-videos.dji.net/video_trans/0d0749f842054927b1a871d64aed1554/1080.mp4?auth_key=1526771567-0-0-c4991fe738aa2f613cbceb3b42d97e0b"
+    },
+    {
+        "name": "20180519 RM中部分区赛 第57场 上海交通大学vs安徽信息工程学院",
+        "src": "https://cn-videos.dji.net/video_trans/921dec936e86463f9d485923ace1d373/720.mp4?auth_key=1527876708-0-0-79cfe0200b57e5d22c6b32533c40ba14"
+    },
+    {
+        "name": "20180519 RM中部分区赛 第56场 同济大学vs电子科技大学成都学院",
+        "src": "https://cn-videos.dji.net/video_trans/3508e89cf9364a4989d61142acbb325a/720.mp4?auth_key=1527876682-0-0-396e5a9b08f6bd0ac0c953b46a31a419"
+    },
+    {
+        "name": "20180519 RM中部分区赛 第55场 东北林业大学vs南京理工大学",
+        "src": "https://cn-videos.dji.net/video_trans/d7fd6e15f5a9492bacccb891ce4e0dae/720.mp4?auth_key=1527876646-0-0-e0409b39ebeab6a9d5ff1b4241250f8d"
+    },
+    {
+        "name": "20180519 RM中部分区赛 第54场 浙江大学vs中国矿业大学",
+        "src": "https://cn-videos.dji.net/video_trans/dd280548416c49c69a2ec79e4e3a400a/720.mp4?auth_key=1527876614-0-0-1b3d75ba8a7a3e04154b50fb6cfb081d"
+    },
+    {
+        "name": "20180519 RM中部分区赛 第53场 浙江纺织服装学院vs安徽信息工程学院",
+        "src": "https://cn-videos.dji.net/video_trans/226e3485ddad412bbda4ae112cc8ab26/720.mp4?auth_key=1527876583-0-0-1cb060c0e70204acccc0f7760b2c078e"
+    },
+    {
+        "name": "20180519 RM中部分区赛 第52场 东南大学vs西安交通大学",
+        "src": "https://cn-videos.dji.net/video_trans/9f153ee53e7a403484de32f616bfdfd8/720.mp4?auth_key=1527876466-0-0-e5e0c6047fedba16b37ef32456a4155e"
+    },
+    {
+        "name": "20180518 RM中部分区赛 第51场 太原工业学院vs上海科技大学",
+        "src": "https://cn-videos.dji.net/video_trans/b43f4b2c67cd4133bc5abc14c5cdd93e/1080.mp4?auth_key=1526753971-0-0-e6ec74df838f5ca7a0de25632f1897a8"
+    },
+    {
+        "name": "20180518 RM中部分区赛 第50场 太原理工大学vs太原科技大学",
+        "src": "https://cn-videos.dji.net/video_trans/d34f5a1cec3943feba4fd6c1a85d59a7/1080.mp4?auth_key=1526754586-0-0-ec0db67c02a31acf82ae062409433ffb"
+    },
+    {
+        "name": "20180518 RM中部分区赛 第49场 上海交通大学vs华中科技大学",
+        "src": "https://cn-videos.dji.net/video_trans/dad2fb7fca8e4815ba6e6edfc20a41ba/1080.mp4?auth_key=1526753921-0-0-e48e253764d10aa7304e23c8d2da1db9"
+    },
+    {
+        "name": "20180518 RM中部分区赛 第48场 华中科技大学vs南京大学",
+        "src": "https://cn-videos.dji.net/video_trans/be7b983c4a784cd2b30af8ec34147679/1080.mp4?auth_key=1526753889-0-0-554200df635f791574697a5393f5e31a"
+    },
+    {
+        "name": "20180518 RM中部分区赛 第47场 电子科技大学成都学院vs浙江工业大学",
+        "src": "https://cn-videos.dji.net/video_trans/37de2e34531e4885ab5936d41cbe2ebb/1080.mp4?auth_key=1526753856-0-0-03c3155697b4cfaf0c5098c1216de482"
+    },
+    {
+        "name": "20180518 RM中部分区赛 第46场 新乡学院vs太原科技大学",
+        "src": "https://cn-videos.dji.net/video_trans/a407ae0f4278449c99990bbdb3920163/1080.mp4?auth_key=1526752673-0-0-e9ea0635352776e38d2019102df5f8e6"
+    },
+    {
+        "name": "20180518 RM中部分区赛 第45场 上海科技大学vs南昌大学",
+        "src": "https://cn-videos.dji.net/video_trans/b9e62c81685e4657892db81879929b5a/1080.mp4?auth_key=1526752639-0-0-1636fdbc8a21cdafa0aa2590e6b0f655"
+    },
+    {
+        "name": "20180518 RM中部分区赛 第44场 西南民族大学vs哈尔滨理工大学",
+        "src": "https://cn-videos.dji.net/video_trans/8bce32159b0e4166b8d320df156f0185/1080.mp4?auth_key=1526752591-0-0-43dee76679e929441342c2ebba8e9082"
+    },
+    {
+        "name": "20180518 RM中部分区赛 第43场 安徽信息工程学院vs江苏科技大学",
+        "src": "https://cn-videos.dji.net/video_trans/05b57d59b44a4257bca5f889757bc9e0/1080.mp4?auth_key=1526752545-0-0-ccceeb36f1bc80461c6a7055d15d1280"
+    },
+    {
+        "name": "20180518 RM中部分区赛 第42场 中国矿业大学vs重庆电子工程职业学院",
+        "src": "https://cn-videos.dji.net/video_trans/45c22bfc750f4ac786317fbb34c0b73e/1080.mp4?auth_key=1526752509-0-0-8d98b1d117e46afc2f54953e3fa27a1e"
+    },
+    {
+        "name": "20180518 RM中部分区赛 第41场 西北农林科技大学vs南京航空航天大学金城学院",
+        "src": "https://cn-videos.dji.net/video_trans/6fca2e5643064365ab3cffaf453448d1/1080.mp4?auth_key=1526752474-0-0-5f897a8e60c2e08aca32814710f93983"
+    },
+    {
+        "name": "20180518 RM中部分区赛 第40场 同济大学vs西安电子科技大学",
+        "src": "https://cn-videos.dji.net/video_trans/39e7bf79b6d2473e9d4484c56811f16c/1080.mp4?auth_key=1526752439-0-0-020d8c6810ddc69d23710093ae58f1a3"
+    },
+    {
+        "name": "20180518 RM中部分区赛 第39场 南京航空航天大学vs西北工业大学",
+        "src": "https://cn-videos.dji.net/video_trans/e6714cfbcb5b4edb80aab508a087d6c5/1080.mp4?auth_key=1526752371-0-0-2bf7b0c2203ecb61f5f3fdbc3de34bab"
+    },
+    {
+        "name": "20180518 RM中部分区赛 第38场 中国石油大学vs浙江大学",
+        "src": "https://cn-videos.dji.net/video_trans/f47f4a4b32ea405e9c8c94aa2fd34171/1080.mp4?auth_key=1526752325-0-0-6cfb9ec7bff22c9100a4f490dc60d0b6"
+    },
+    {
+        "name": "20180518 RM中部分区赛 第37场 浙江工业大学vs华中科技大学",
+        "src": "https://cn-videos.dji.net/video_trans/39ac2f66039d4c718a7b57f2f5163bf5/1080.mp4?auth_key=1526752278-0-0-04c6259ebf6598fee67b86895ff1c03a"
+    },
+    {
+        "name": "20180518 RM中部分赛区 第36场 浙江纺织服装职业技术学院vs郑州大学",
+        "src": "https://cn-videos.dji.net/video_trans/89d0c40cf11d4e31aa195b4ee005784c/1080.mp4?auth_key=1526728694-0-0-052e6ce32e173fe353e2c5b4f92fd33d"
+    },
+    {
+        "name": "20180518 RM中部分赛区 第35场 东南大学vs湖北工业大学",
+        "src": "https://cn-videos.dji.net/video_trans/993899b562164925934dcec4d35fe68b/1080.mp4?auth_key=1526728668-0-0-a964ab20b61a83574989af19405bd2e3"
+    },
+    {
+        "name": "20180518 RM中部分赛区 第34场 武汉交通职业学院vs太原工业学院",
+        "src": "https://cn-videos.dji.net/video_trans/b50638c641784fc5ab6f85f2f4f01b33/1080.mp4?auth_key=1526728640-0-0-9f2fff2dbdd03f0250c91a8f6cc93195"
+    },
+    {
+        "name": "20180518 RM中部分赛区 第33场 太原理工大学vs上海理工大学",
+        "src": "https://cn-videos.dji.net/video_trans/718aa5997a934157bf093d111765fe98/1080.mp4?auth_key=1526728594-0-0-4073f7f619b5d81ac1a68231afd147a8"
+    },
+    {
+        "name": "20180518 RM中部分赛区 第32场 西安理工大学vs集美大学诚毅学院",
+        "src": "https://cn-videos.dji.net/video_trans/fa39990ff168488f9619c28060c692ef/1080.mp4?auth_key=1526728557-0-0-439a147a598b42e51206345232b2374b"
+    },
+    {
+        "name": "20180518 RM中部分赛区 第31场 南昌大学vs兰州大学",
+        "src": "https://cn-videos.dji.net/video_trans/a1a120b0420b44d7b3ec5ff6bbbcc363/1080.mp4?auth_key=1526728504-0-0-4270b141791e0fa495f95665919f4955"
+    },
+    {
+        "name": "20180518 RM中部分赛区 第30场 电子科技大学成都学院vs南京大学",
+        "src": "https://cn-videos.dji.net/video_trans/14301cd08b4f4cfc858c787b8db32d68/1080.mp4?auth_key=1526728466-0-0-d6255c17125e97807fb108e70322c1b0"
+    },
+    {
+        "name": "20180518 RM中部分赛区 第29场 太原科技大学vs西安文理学院",
+        "src": "https://cn-videos.dji.net/video_trans/ea43743dcd1b4ac695707f6657089498/1080.mp4?auth_key=1526728426-0-0-678f15edfa6ea0ac76646ccb5e57fee6"
+    },
+    {
+        "name": "20180518 RM中部分赛区 第28场 哈尔滨理工大学vs西安交通大学",
+        "src": "https://cn-videos.dji.net/video_trans/935b7039b5cd4fdaa2a1d95b6079c2b8/1080.mp4?auth_key=1526728356-0-0-27b56bf668c3d809f0a9894f958a14e0"
+    },
+    {
+        "name": "20180517 RM中部分区赛 第27场 浙江工业大学vs南京大学",
+        "src": "https://cn-videos.dji.net/video_trans/8ba723436434499486c27076a06f46d3/720.mp4?auth_key=1526684210-0-0-65e32854bbd5bfdaf32db2214912ec45"
+    },
+    {
+        "name": "20180517 RM中部分区赛 第26场 江苏科技大学vs沈阳理工大学",
+        "src": "https://cn-videos.dji.net/video_trans/25a4568747f944f581fa8522e18fcecb/720.mp4?auth_key=1526684153-0-0-6f9ee35709160182ef425ccf73c6d84b"
+    },
+    {
+        "name": "20180517 RM中部分区赛 第25场 重庆电子工程职业学院vs上海大学",
+        "src": "https://cn-videos.dji.net/video_trans/2ef40cd6faaa4e93b710aae9cecbde92/720.mp4?auth_key=1526684050-0-0-a8bfb3ee679a4317b83907cccd7e86bb"
+    },
+    {
+        "name": "20180517 RM中部分区赛 第24场 南京航空航天大学金城学院vs南京理工大学",
+        "src": "https://cn-videos.dji.net/video_trans/cd97aecc5d8f46dd8fa72bba69572543/720.mp4?auth_key=1526683980-0-0-f3c4f673163c2e47ceb13b2480e460fb"
+    },
+    {
+        "name": "20180517 RM中部分区赛 第23场 西安电子科技大学vs长安大学",
+        "src": "https://cn-videos.dji.net/video_trans/0924feb6669c46219243445e2842028e/720.mp4?auth_key=1526683924-0-0-70f8a1c738e28ae76f71a10356741839"
+    },
+    {
+        "name": "20180517 RM中部分区赛 第22场 西北工业大学vs东北林业大学",
+        "src": "https://cn-videos.dji.net/video_trans/6c98b22a5260441e83a0d72c869bd7c8/720.mp4?auth_key=1526683673-0-0-f6316812e9373e950ca465ca50aaf0b4"
+    },
+    {
+        "name": "20180517 RM中部分区赛 第21场 浙江大学vs宁波大学",
+        "src": "https://cn-videos.dji.net/video_trans/2ff3b128c36e4f1191e7adb8cb04f5dc/720.mp4?auth_key=1526683801-0-0-b68860ceaef25c1978b0460b905bd96d"
+    },
+    {
+        "name": "20180517 RM中部分区赛 第20场 郑州大学vs华东师范大学",
+        "src": "https://cn-videos.dji.net/video_trans/ea40594e67f641a38db3f453dc1104a7/720.mp4?auth_key=1526683506-0-0-f5e49d245609bf236a88169f5971e211"
+    },
+    {
+        "name": "20180517 RM中部分区赛 第19场 湖北工业大学vs湘潭大学",
+        "src": "https://cn-videos.dji.net/video_trans/5f1579ed0b08458bbec7fe0d2bb0a831/720.mp4?auth_key=1526683428-0-0-0acc5978fe1f0047b4a4038b5e39cb9b"
+    },
+    {
+        "name": "20180517 RM中部分区赛 第18场 太原工业学院vs内蒙古科技大学",
+        "src": "https://cn-videos.dji.net/video_trans/42d0ec1df51b45c696eb31777831e874/720.mp4?auth_key=1526683263-0-0-53adc733ad941154ebbd16198ee29e2b"
+    },
+    {
+        "name": "20180517 RM中部分区赛 第17场 上海理工大学vs云南大学",
+        "src": "https://cn-videos.dji.net/video_trans/e23fc20ed19d43e5943287f93b084287/720.mp4?auth_key=1526683133-0-0-b5e0cf3d5a492b9c7d5399535362ba0d"
+    },
+    {
+        "name": "20180517 RM中部分区赛 第16场 集美大学诚毅学院vs上海交通大学",
+        "src": "https://cn-videos.dji.net/video_trans/1b3c35dadb894d95a5b7589bf36c67ae/720.mp4?auth_key=1526683048-0-0-b189c1ee7b81b8ad96969fd01ee79cf3"
+    },
+    {
+        "name": "20180517 RM中部分区赛 第15场 电子科技大学成都学院vs华中科技大学",
+        "src": "https://cn-videos.dji.net/video_trans/796e6930ab474c66b6d630f3fbfab0c1/720.mp4?auth_key=1526682972-0-0-e4c567750bb9a9048289bf9df3a56b55"
+    },
+    {
+        "name": "20180517 RM中部分区赛 第14场 新乡学院vs西安文理学院",
+        "src": "https://cn-videos.dji.net/video_trans/dbee79d061ab4eb39f0ce257a9968c01/720.mp4?auth_key=1526682869-0-0-38b8466dc62f7665e3c1d2af11e71b29"
+    },
+    {
+        "name": "20180517 RM中部分区赛 第13场 上海科技大学vs兰州大学",
+        "src": "https://cn-videos.dji.net/video_trans/3582a9841ea1491a8c996a965fc1dccb/720.mp4?auth_key=1526682764-0-0-2d644ed95128f5a16e948a42d22b135f"
+    },
+    {
+        "name": "20180517 RM中部分区赛 第12场 西南民族大学vs西安交通大学",
+        "src": "https://cn-videos.dji.net/video_trans/de72d0da4d264f1e819a6013ea30c26f/720.mp4?auth_key=1526663795-0-0-8c6f55388f55920cc4c358634beb29fd"
+    },
+    {
+        "name": "20180517 RM中部分区赛 第11场 安徽信息工程学院vs沈阳理工大学",
+        "src": "https://www.robomaster.com/live/https%EF%BC%9A//cn-videos.dji.net/video_trans/1d2335fd5d8e4cac9aeec7666cf8937b/720.mp4?auth_key=1526658206-0-0-aec816cc7d1efc157f58c4a76bff3b5e"
+    },
+    {
+        "name": "20180517 RM中部分区赛 第10场 中国矿业大学vs上海大学",
+        "src": "https://cn-videos.dji.net/video_trans/8ad9278394c34fc79c20f69b78b7ba6b/720.mp4?auth_key=1526650380-0-0-2b579280d369cbc08a531217e9854772"
+    },
+    {
+        "name": "20180517 RM中部分区赛 第9场 西北农林科技大学vs南京理工大学",
+        "src": "https://cn-videos.dji.net/video_trans/37b6778db0414240aecb3c3f8404049b/720.mp4?auth_key=1526645822-0-0-7947d6a434bfe5ee2d182df5ca1c3353"
+    },
+    {
+        "name": "20180517 RM中部分区赛 第8场 同济大学vs长安大学",
+        "src": "https://cn-videos.dji.net/video_trans/b1ed4c93122543d1b6373a7794c4a701/1080.mp4?auth_key=1526591194-0-0-93edc6c52ae7f96ba557b825a8e95beb"
+    },
+    {
+        "name": "20180517 RM中部分区赛 第7场 南京航空航天大学vs东北林业大学",
+        "src": "https://cn-videos.dji.net/video_trans/8b504b9bd129478c8bafb0bcaf4958b5/1080.mp4?auth_key=1526591049-0-0-ed23d705ecf2ef3e0468b3d7199c6c69"
+    },
+    {
+        "name": "20180517 RM中部分区赛 第6场 中国石油大学vs宁波大学",
+        "src": "https://cn-videos.dji.net/video_trans/9f102db2ba3445688861eb6ed96a61bb/1080.mp4?auth_key=1526590939-0-0-0faf0932535d62f3ffb15e11a3b900b2"
+    },
+    {
+        "name": "20180517 RM中部分区赛 第5场 浙江纺织服装职业技术学院vs华东师范大学",
+        "src": "https://cn-videos.dji.net/video_trans/5941a5daef0f40aa80374d26968573a7/1080.mp4?auth_key=1526590751-0-0-f45d225bad7a1db6111ca20e0f69c4d3"
+    },
+    {
+        "name": "20180517 RM中部分区赛 第4场 东南大学vs湘潭大学",
+        "src": "https://cn-videos.dji.net/video_trans/395b83ed3f1f4b938652417b697250af/1080.mp4?auth_key=1526590647-0-0-2f767c90742bdaf21ffb2af1b21494b2"
+    },
+    {
+        "name": "20180517 RM中部分区赛 第3场 武汉交通职业学院vs内蒙古科技大学",
+        "src": "https://cn-videos.dji.net/video_trans/0426c975282f41189fdb721230d66a45/1080.mp4?auth_key=1526590476-0-0-1a5649a5738de800ef5f049b8932f744"
+    },
+    {
+        "name": "20180517 RM中部分区赛 第2场 太原理工大学vs云南大学",
+        "src": "https://cn-videos.dji.net/video_trans/ada7cf26688a4932bbaba3a0df0c973d/1080.mp4?auth_key=1526590389-0-0-9850ea22227e826e2b741ad77a255548"
+    },
+    {
+        "name": "20180517 RM中部分区赛 第1场 西安理工大学vs上海交通大学",
+        "src": "https://cn-videos.dji.net/video_trans/15059258fd0241ee8307c1a0fbdb2e74/1080.mp4?auth_key=1526589969-0-0-b97deea143cd2f385302fb9fa4083c81"
+    },
+    {
+        "name": "20180513 RM南部分区赛 第77场-华南理工大学vs电子科技大学",
+        "src": "https://cn-videos.dji.net/video_trans/e571e81c7e0c45aeb3a01b7cd2f4bf50/720.mp4?auth_key=1526574958-0-0-a3b4b816727285ceb1e3e4eb017f3599"
+    },
+    {
+        "name": "20180513 RM南部分区赛 第76场-福建工程学院vs佛山科学技术学院",
+        "src": "https://cn-videos.dji.net/video_trans/ae26df84e70042f1913fbc3316bbbada/720.mp4?auth_key=1526575814-0-0-75623d4d99e6a45387bb4aec7d2c8294"
+    },
+    {
+        "name": "20180513 RM南部分区赛 第75场-电子科技大学vs佛山科学技术学院",
+        "src": "https://cn-videos.dji.net/video_trans/53389519873a437ca759a90053c8ce1a/720.mp4?auth_key=1526387407-0-0-d350fc264ba188e7a8dcdf2545291832"
+    },
+    {
+        "name": "20180513 RM南部分区赛 第74场-福建工程学院vs华南理工大学",
+        "src": "https://cn-videos.dji.net/video_trans/8b6a4f657bdd43c78591b7323eaf7f00/1080.mp4?auth_key=1526236098-0-0-89bfc3bcdb94bec5479ee5f8e5ecb6db"
+    },
+    {
+        "name": "20180513 RM南部分区赛 第73场-电子科技大学中山学院vs华南理工大学广州学院",
+        "src": "https://cn-videos.dji.net/video_trans/f9232bea141e4108896ee2e1ec5b70fa/1080.mp4?auth_key=1526235691-0-0-a8bfa935934bbc248fe468ed08b52c88"
+    },
+    {
+        "name": "20180513 RM南部分区赛 第72场-深圳大学vs南华大学",
+        "src": "https://cn-videos.dji.net/video_trans/3cf9503432db44e8b2ef9321ed03775b/1080.mp4?auth_key=1526228642-0-0-39c04db318fb26b8dbbb7b9c51b4d56b"
+    },
+    {
+        "name": "20180513 RM南部分区赛 第71场-深圳职业技术学院vs北京理工大学珠海学院",
+        "src": "https://cn-videos.dji.net/video_trans/758eb45b45b5470ea669214a7e76e6a7/1080.mp4?auth_key=1526228311-0-0-14c6ff21c37e247d1630237cb276a757"
+    },
+    {
+        "name": "20180512 RM南部分区赛 第70场-华南理工大学广州学院vs钦州学院",
+        "src": "https://cn-videos.dji.net/video_trans/a3f01997db0c4bba82be0322d0eaa42b/1080.mp4?auth_key=1526225022-0-0-ab0343aa9b91ae5ac5e1ed34ec154a89"
+    },
+    {
+        "name": "20180512 RM南部分区赛 第69场-广西师范大学vs电子科技大学中山学院",
+        "src": "https://cn-videos.dji.net/video_trans/2e9bce3dff7a4505abdf5b970ce96782/1080.mp4?auth_key=1526224992-0-0-c3dd69794f050c0ca31297b52a5f559e"
+    },
+    {
+        "name": "20180512 RM南部分区赛 第68场-钦州学院vs南华大学",
+        "src": "https://cn-videos.dji.net/video_trans/51a7c3e5a5234dfeb66dcc5ab38b6f0f/1080.mp4?auth_key=1526224875-0-0-afcfba022dd1391c7da5a369281506e3"
+    },
+    {
+        "name": "20180512 RM南部分区赛 第67场-北京理工大学珠海学院vs电子科技大学中山学院",
+        "src": "https://cn-videos.dji.net/video_trans/6182d53083564ea18120625af7a24d01/1080.mp4?auth_key=1526224800-0-0-5e51b2fed482116ea3c6ddcffbcb84a3"
+    },
+    {
+        "name": "20180512 RM南部分区赛 第66场-深圳大学vs华南理工大学广州学院",
+        "src": "https://cn-videos.dji.net/video_trans/dd6dbee10c794cb2afef4e7bc4738f66/1080.mp4?auth_key=1526224756-0-0-1f6a3a99bf580835ec07837fb1bc1cbb"
+    },
+    {
+        "name": "20180512 RM南部分区赛 第65场-深圳职业技术学院vs广西师范大学",
+        "src": "https://cn-videos.dji.net/video_trans/d7648e30241a4172b4e02204037cd9cf/1080.mp4?auth_key=1526224712-0-0-a25cc8b359f095f756458270d4b5f1bf"
+    },
+    {
+        "name": "20180512 RM南部分区赛 第64场-钦州学院vs佛山科学技术学院",
+        "src": "https://cn-videos.dji.net/video_trans/42ee05e5f7ab48b5a1106cc8790ddd53/1080.mp4?auth_key=1526224657-0-0-4fb741109f24010176c517686ab4517b"
+    },
+    {
+        "name": "20180512 RM南部分区赛 第63场-北京理工大学珠海学院vs华南理工大学",
+        "src": "https://cn-videos.dji.net/video_trans/0eaca0e98f2a4f67a1038cb9651bede5/1080.mp4?auth_key=1526224307-0-0-c918a76a62b2eb6a946247b4b578c8f5"
+    },
+    {
+        "name": "20180512 RM南部分区赛 第62场-深圳大学vs电子科技大学",
+        "src": "https://cn-videos.dji.net/video_trans/052948c7fd624b3682cd9dd3e4b9e518/1080.mp4?auth_key=1526224274-0-0-a8dcfb17d07c747480cb5fa12c22b531"
+    },
+    {
+        "name": "20180512 RM南部分区赛 第61场-深圳职业技术学院vs福建工程学院",
+        "src": "https://cn-videos.dji.net/video_trans/aa607f33293d404ca62c23199cfdd6b7/1080.mp4?auth_key=1526224217-0-0-f897f7dab8581f7c902d6347569cf8fc"
+    },
+    {
+        "name": "20180512 RM南部分区赛 第60场-南华大学vs贵州师范学院",
+        "src": "https://cn-videos.dji.net/video_trans/22c7dcdaaf4b4deaa7d811e442669d53/1080.mp4?auth_key=1526223999-0-0-52e17d9f5f9bb7fe452071eb5696b3f3"
+    },
+    {
+        "name": "20180512 RM南部分区赛 第59场-重庆大学vs电子科技大学中山学院",
+        "src": "https://cn-videos.dji.net/video_trans/e8c86553eab64a4680597d079ec3fdf4/1080.mp4?auth_key=1526223930-0-0-dd0545449ed1f36428687c0ccc6d3064"
+    },
+    {
+        "name": "20180512 RM南部分区赛 第58场-华南理工大学广州学院vs仲恺农业工程学院",
+        "src": "https://cn-videos.dji.net/video_trans/ef018f03f5f94ded9b2e7ae3f6dc2695/1080.mp4?auth_key=1526223889-0-0-b5dd5b99f7075c1c733ca993a28ef743"
+    },
+    {
+        "name": "20180512 RM南部分区赛 第57场-中山大学vs广西师范大学",
+        "src": "https://cn-videos.dji.net/video_trans/72f09995e3df45658eb28a66836bd605/1080.mp4?auth_key=1526223849-0-0-ae0b94ac67944d51439d1b0099c39a52"
+    },
+    {
+        "name": "20180512 RM南部分区赛 第56场-佛山科学技术学院vs贵州师范学院",
+        "src": "https://cn-videos.dji.net/video_trans/db495ae4a2c54884a3da303b4b0e3780/1080.mp4?auth_key=1526223775-0-0-22f94c1dbbabb9d0ada612eddc5444d7"
+    },
+    {
+        "name": "20180512 RM南部分区赛 第55场-华南理工大学vs电子科技大学中山学院",
+        "src": "https://cn-videos.dji.net/video_trans/aa0f0f13cf464444a6411abccfd7c306/1080.mp4?auth_key=1526223716-0-0-5f0c015e4ab305643242d2d9eef343e8"
+    },
+    {
+        "name": "20180512 RM南部分区赛 第54场-电子科技大学vs仲恺农业工程学院",
+        "src": "https://cn-videos.dji.net/video_trans/f8b965831a5942b983936e3e89761625/1080.mp4?auth_key=1526223680-0-0-cf3d3220a54578358d3a4c2b5718e244"
+    },
+    {
+        "name": "20180512 RM南部分区赛 第53场-福建工程学院vs广西师范大学",
+        "src": "https://cn-videos.dji.net/video_trans/e124c44e05b644e9b5ee7a99222b479f/1080.mp4?auth_key=1526223472-0-0-63b915788af6659a1dfcd615cbaf5e19"
+    },
+    {
+        "name": "20180512 RM南部分区赛 第52场-南华大学vs钦州学院",
+        "src": "https://cn-videos.dji.net/video_trans/0aa0b7b501d44a7bbdfad6a516de2b95/1080.mp4?auth_key=1526223368-0-0-550cb60ae79c3d67820eadde85c7af96"
+    },
+    {
+        "name": "20180511 RM南部分区赛 第51场-北京理工大学珠海学院vs重庆大学",
+        "src": "https://cn-videos.dji.net/video_trans/167257ef349445a59217996190e561ea/1080.mp4?auth_key=1526219263-0-0-cde77e013acc7d6f7307256f1d8043f6"
+    },
+    {
+        "name": "20180511 RM南部分区赛 第50场（16进8）-深圳大学vs华南理工大学广州学院",
+        "src": "https://cn-videos.dji.net/video_trans/4c8c0825c98f43ad966ae67173f43f14/1080.mp4?auth_key=1526209489-0-0-92951989d7208eff2b8ae47d110248e1"
+    },
+    {
+        "name": "20180511 RM南部分区赛 第49场（16进8）-深圳职业技术学院vs中山大学",
+        "src": "https://cn-videos.dji.net/video_trans/fec80565b7e940f8acf3d2e51d29309b/1080.mp4?auth_key=1526209893-0-0-bd439c91810263746f80d7b0f5f0d550"
+    },
+    {
+        "name": "20180511 RM南部分区赛 第48场-电子科技大学vs重庆大学",
+        "src": "https://cn-videos.dji.net/video_trans/ba890779e3994bb7b0b9a2d47e8519f9/1080.mp4?auth_key=1526209849-0-0-732fcd45b9d3d0afead01165bb28d383"
+    },
+    {
+        "name": "20180511 RM南部分区赛 第47场-桂林理工大学vs钦州学院",
+        "src": "https://cn-videos.dji.net/video_trans/e0c7a4cff0634c1092bcb05fba79fcf3/1080.mp4?auth_key=1526209430-0-0-34c3c154882f3cf802e7ff344ffddc4e"
+    },
+    {
+        "name": "20180511 RM南部分区赛 第46场-中山大学vs湖北汽车工业学院",
+        "src": "https://cn-videos.dji.net/video_trans/2e43e886d6824832a92f74d08b801ed6/1080.mp4?auth_key=1526208991-0-0-86ad9b01111cb8e10c395203d5c0197b"
+    },
+    {
+        "name": "20180511 RM南部分区赛 第45场-厦门理工大学vs中南大学",
+        "src": "https://cn-videos.dji.net/video_trans/476c958272b843d79dfeec29fa5523e2/1080.mp4?auth_key=1526209811-0-0-9719604be93d3143415fcea98a38ae67"
+    },
+    {
+        "name": "20180511 RM南部分区赛 第44场-西交利物浦大学vs南华大学",
+        "src": "https://cn-videos.dji.net/video_trans/2403c117d7a543759621efdda1b7b511/1080.mp4?auth_key=1526208579-0-0-8afb59655519ca7f0e9d3971bab4f8a0"
+    },
+    {
+        "name": "20180511 RM南部分区赛 第43场-北京理工大学珠海学院vs上海第二工业大学",
+        "src": "https://cn-videos.dji.net/video_trans/5afa3b88ad274d60a80592065f5023d1/1080.mp4?auth_key=1526208715-0-0-1990db94ae5058f7d32bb7d47a871238"
+    },
+    {
+        "name": "20180511 RM南部分区赛 第42场-深圳大学vs黄冈师范学院",
+        "src": "https://cn-videos.dji.net/video_trans/0f429bc3b0314e4ea5695168bd32bbfb/1080.mp4?auth_key=1526207406-0-0-64227f313e209b9ee506f2b85fb1fabd"
+    },
+    {
+        "name": "20180511 RM南部分区赛 第41场-深圳职业技术学院vs贵州师范学院",
+        "src": "https://cn-videos.dji.net/video_trans/84d5e9f6f342456cb11d5eacd7b8a33e/1080.mp4?auth_key=1526207282-0-0-98d608093ce7c79a295e9f885d24ab79"
+    },
+    {
+        "name": "20180511 RM南部分区赛 第40场-佛山科学技术学院vs吉林大学珠海学院",
+        "src": "https://cn-videos.dji.net/video_trans/80c570597aa24189aa884bb98d1a5594/1080.mp4?auth_key=1526207213-0-0-33a184f305e1a0ba8a2171e5aa864fa7"
+    },
+    {
+        "name": "20180511 RM南部分区赛 第39场-华南理工大学vs华南理工大学广州学院",
+        "src": "https://cn-videos.dji.net/video_trans/8b7cd0a83fc44b71a1cbdf75a6449f9f/1080.mp4?auth_key=1526205860-0-0-c2194dc7367ca778a1fdcb50d14ec7ce"
+    },
+    {
+        "name": "20180511 RM南部分区赛 第38场-南方科技大学vs桂林电子科技大学",
+        "src": "https://cn-videos.dji.net/video_trans/34177d721eb44483a947c1e5f59db483/1080.mp4?auth_key=1526205703-0-0-fed8abb461dc9fabda2090813403ddf0"
+    },
+    {
+        "name": "20180511 RM南部分区赛 第37场-四川大学vs福建工程学院",
+        "src": "https://cn-videos.dji.net/video_trans/341e950843b443b599517faf011270bb/1080.mp4?auth_key=1526161059-0-0-a8f407ed31e27cb817805f98972b3938"
+    },
+    {
+        "name": "20180511 RM南部分区赛 第36场-五邑大学vs广西师范大学",
+        "src": "https://cn-videos.dji.net/video_trans/d8aab332a9e641db9322f6655828e199/1080.mp4?auth_key=1526160983-0-0-a1884583169e3e22b6078355fe254764"
+    },
+    {
+        "name": "20180511 RM南部分区赛 第35场-哈尔滨工业大学（深圳）vs仲恺农业工程学院",
+        "src": "https://cn-videos.dji.net/video_trans/24d7cc6d8f79483c99701e43f405d755/1080.mp4?auth_key=1526160911-0-0-061b576de2ec22e8c3f0a016efbabba5"
+    },
+    {
+        "name": "20180511 RM南部分区赛 第34场 厦门大学漳州校区&嘉庚学院vs电子科技大学中山学院",
+        "src": "https://cn-videos.dji.net/video_trans/775ddf4d334c4b2cb8841cc15ca9a4ab/1080.mp4?auth_key=1526140943-0-0-b32e4eb03293cb4c9881646b5aa366d0"
+    },
+    {
+        "name": "20180511 RM南部分区赛 第33场 华南农业大学vs东莞理工学院",
+        "src": "https://cn-videos.dji.net/video_trans/f8ac7b171be84949a4cbff2d8c55092b/1080.mp4?auth_key=1526140875-0-0-7cad5996d928ccaa1e1a099c73c6d66a"
+    },
+    {
+        "name": "20180511 RM南部分区赛 第32场 湖北汽车工业学院vs吉林大学珠海学院",
+        "src": "https://cn-videos.dji.net/video_trans/eb62a13843ab4df38a723ee6c73fce00/1080.mp4?auth_key=1526168933-0-0-7a7fe1d883ee37250acd3e127a1c34cd"
+    },
+    {
+        "name": "20180511 RM南部分区赛 第31场 中南大学vs华南理工大学广州学院",
+        "src": "https://cn-videos.dji.net/video_trans/0094096c9af94e7faa2cde8fa4622e3c/1080.mp4?auth_key=1526136030-0-0-1416e06d81651bc5b392b1b64a078895"
+    },
+    {
+        "name": "20180511 RM南部分区赛 第30场 重庆大学vs桂林电子科技大学",
+        "src": "https://cn-videos.dji.net/video_trans/09d34099446f432c8f98a3e5f82bcced/1080.mp4?auth_key=1526135794-0-0-e76db85081831b2017ad6214ba67ccf7"
+    },
+    {
+        "name": "20180511 RM南部分区赛 第29场 钦州学院vs福建工程学院",
+        "src": "https://cn-videos.dji.net/video_trans/2fedbf22c3e942cf9bba41f83b06889b/1080.mp4?auth_key=1526135677-0-0-082c32eb0e08efcda7543f70027d6b3a"
+    },
+    {
+        "name": "20180511 RM南部分区赛 第28场 南华大学vs广西师范大学",
+        "src": "https://cn-videos.dji.net/video_trans/d7f868b09b2e409c91b45fd067e6c692/1080.mp4?auth_key=1526135493-0-0-b2fce50018226716bee51d4aa6adb976"
+    },
+    {
+        "name": "20180511 RM南部分区赛 第27场 上海第二工业大学vs仲恺农业工程学院",
+        "src": "https://cn-videos.dji.net/video_trans/4b3f5fca9574427ab45ee38bca03ecf8/1080.mp4?auth_key=1526135430-0-0-1960e3ae7bce212212271ada914338ea"
+    },
+    {
+        "name": "20180511 RM南部分区赛 第26场-黄冈师范学院vs电子科技大学中山学院",
+        "src": "https://cn-videos.dji.net/video_trans/7fef1b07225d430787bb2feb828bae99/720.mp4?auth_key=1526072034-0-0-ca41e3365aeab38caf644527d378984e"
+    },
+    {
+        "name": "20180510 RM南部分区赛 第25场 贵州师范学院vs东莞理工学院",
+        "src": "https://cn-videos.dji.net/video_trans/2ffe410c9bda491da4d1031dbfbce7ac/720.mp4?auth_key=1526071988-0-0-3deae15e63f3684aec9c68ec52b129d9"
+    },
+    {
+        "name": "20180510 RM南部分区赛 第24场 中山大学vs佛山科学技术学院",
+        "src": "https://cn-videos.dji.net/video_trans/cdb819cca0784265973ca33f464ef6e8/720.mp4?auth_key=1526071860-0-0-5ac3fe03af1e076afd9cb401479d6de6"
+    },
+    {
+        "name": "20180510 RM南部分区赛 第23场 厦门理工学院vs 华南理工大学",
+        "src": "https://cn-videos.dji.net/video_trans/7a06ca48bd934a1080215e21d28422cc/720.mp4?auth_key=1526071729-0-0-3978184536b49a787beccda1d0ebba3c"
+    },
+    {
+        "name": "20180510 RM南部分区赛 第22场 电子科技大学vs南方科技大学",
+        "src": "https://cn-videos.dji.net/video_trans/9ee9e05a58a243e6be98158555e1ab46/720.mp4?auth_key=1526071657-0-0-415cc045fdd7b91e0ad14ec25002ceb2"
+    },
+    {
+        "name": "20180510 RM南部分区赛 第21场 桂林理工大学vs四川大学",
+        "src": "https://cn-videos.dji.net/video_trans/6c18d1fc0ab14a4883f0de3a6ecf4f6b/720.mp4?auth_key=1526071609-0-0-56d4a4fdd96339990c5b4f26a4b7ddb4"
+    },
+    {
+        "name": "20180510 RM南部分区赛 第20场 西交利物浦大学vs五邑大学",
+        "src": "https://cn-videos.dji.net/video_trans/f047fddd17da4e0b8425baeb1a363213/720.mp4?auth_key=1526071552-0-0-13999625af099d2109c79533002cec16"
+    },
+    {
+        "name": "20180510 RM南部分区赛 第19场-北京理工大学珠海学院vs哈尔滨工业大学（深圳）",
+        "src": "https://cn-videos.dji.net/video_trans/a704bc02ba064a45b8901cffcdb2132c/720.mp4?auth_key=1526071499-0-0-83b3b34c6423fcddaf9cc04600053e5d"
+    },
+    {
+        "name": "20180510 RM南部分区赛 第18场 深圳大学vs厦门大学嘉庚学院&漳州校区",
+        "src": "https://cn-videos.dji.net/video_trans/6ccc4765a383429eac5cfd9289336c99/720.mp4?auth_key=1526071447-0-0-d4841c2261afb0fdda367549584ce34d"
+    },
+    {
+        "name": "20180510 RM南部分区赛 第17场 深圳职业技术学院vs华南农业大学",
+        "src": "https://cn-videos.dji.net/video_trans/2e7320d141f9493db5f5d7359975f119/720.mp4?auth_key=1526071384-0-0-44526149fbe80b7fcc987a5a06a354e2"
+    },
+    {
+        "name": "20180510 RM南部分区赛 第16场 吉林大学珠海学院vs中山大学",
+        "src": "https://cn-videos.dji.net/video_trans/ce7c124d33a44ff59c06b0fabeaa747c/720.mp4?auth_key=1526071340-0-0-802941b232213f926333b898bcd85ef2"
+    },
+    {
+        "name": "20180510 RM南部分区赛 第15场 华南理工大学广州学院vs厦门理工学院",
+        "src": "https://cn-videos.dji.net/video_trans/f2b76890f6dc4dfc869e1237b97f3efb/720.mp4?auth_key=1526071310-0-0-d0f3bdfa616feb05699a1a3cd3c6fc68"
+    },
+    {
+        "name": "20180510 RM南部分区赛 第14场-桂林电子科技大学vs电子科技大学",
+        "src": "https://cn-videos.dji.net/video_trans/68120bbbdceb4c948fbda070d943e411/720.mp4?auth_key=1526071122-0-0-5c232bfe147738bc17b55fad2a38f531"
+    },
+    {
+        "name": "20180510 RM南部分区赛 第13场-福建工程学院vs桂林理工大学",
+        "src": "https://cn-videos.dji.net/video_trans/9af77083c28040d1bc4782f11637bb23/720.mp4?auth_key=1526069176-0-0-4896bba9405d41c6eebe7ae7c7c159d6"
+    },
+    {
+        "name": "20180510 RM南部分区赛 第12场-广西师范大学vs西交利物浦大学",
+        "src": "https://cn-videos.dji.net/video_trans/e17630ca58f147749b6ab545f776d5ff/720.mp4?auth_key=1526069119-0-0-0d227abdf3aeab88b1857a602e331d43"
+    },
+    {
+        "name": "20180510 RM南部分区赛 第11场-仲恺农业工程学院vs北京理工大学珠海学院",
+        "src": "https://cn-videos.dji.net/video_trans/7dc7699cf6d34147aa05f44d7943d2db/720.mp4?auth_key=1526069068-0-0-4f7ca103a613ab01ea6a45b8beba6707"
+    },
+    {
+        "name": "20180510 RM南部分区赛 第10场 电子科技大学中山学院vs深圳大学",
+        "src": "https://cn-videos.dji.net/video_trans/11181817951e45baa8e3a82f51b85a61/720.mp4?auth_key=1526069018-0-0-78cc0467472f1d085208703edea1c3bb"
+    },
+    {
+        "name": "20180510 RM南部分区赛 第9场 东莞理工学院vs深圳职业技术学院",
+        "src": "https://cn-videos.dji.net/video_trans/0e36b5fd150e4f78b77ed64f69599b55/720.mp4?auth_key=1526068968-0-0-6d27a8f18eddec70010ddf1e6f752fbd"
+    },
+    {
+        "name": "20180510 RM南部分区赛 第8场 佛山科学技术学院vs湖北汽车工业学院",
+        "src": "https://cn-videos.dji.net/video_trans/d2fc18d5918542deaaf248e37854374a/720.mp4?auth_key=1526068912-0-0-90181cbad7c2a805ff615f395166a88d"
+    },
+    {
+        "name": "20180510 RM南部分区赛 第7场 华南理工大学vs中南大学",
+        "src": "https://cn-videos.dji.net/video_trans/d1d8797ba83c470c82bc7dcecc8f12fe/720.mp4?auth_key=1526068741-0-0-9aec19c03f4f49536749729b2d0aadbe"
+    },
+    {
+        "name": "20180510 RM南部分区赛 第6场 重庆大学vs南方科技大学",
+        "src": "https://cn-videos.dji.net/video_trans/a6c0a7eb65264a9cb36d6af8068b54f2/720.mp4?auth_key=1526068678-0-0-b4cb77019cd03c28af0879414ef76355"
+    },
+    {
+        "name": "20180510 RM南部分区赛 第5场 四川大学vs钦州学院",
+        "src": "https://cn-videos.dji.net/video_trans/f90a5ec57786414cbbc6398cf56aa401/720.mp4?auth_key=1526068547-0-0-e3fa9ccbf1aa2be622490f9c8baf9a76"
+    },
+    {
+        "name": "20180510 RM南部分区赛 第4场 五邑大学vs南华大学",
+        "src": "https://cn-videos.dji.net/video_trans/64874d56599e47cda9c3edd763ac3c2e/720.mp4?auth_key=1526068399-0-0-771df34cbe9c4374d99418f1eddf379d"
+    },
+    {
+        "name": "20180510 RM南部分区赛 第3场 上海第二工业大学vs哈尔滨工业大学（深圳）",
+        "src": "https://cn-videos.dji.net/video_trans/60ce880ab4fb400b82e52f0ef1d6d239/720.mp4?auth_key=1526068347-0-0-7feef73db5d8daba26c56a285e38991d"
+    },
+    {
+        "name": "20180510 RM南部分区赛 第2场 厦门大学&厦大嘉庚学院vs黄冈师范学院",
+        "src": "https://cn-videos.dji.net/video_trans/9bda093e5c9e4addba7793f63af0f959/720.mp4?auth_key=1526068137-0-0-1b53e8315fcdef725b1e9ee60773f29a"
+    },
+    {
+        "name": "20180510 RM2018 佛山南部分区赛 第1场 华南农业大学vs贵州师范学院",
+        "src": "https://cn-videos.dji.net/video_trans/140e07cfa5f440bd8a8e52525f1bf890/720.mp4?auth_key=1526067824-0-0-98512cbe52b749bb85801c102d6ef9ad"
+    }
+]

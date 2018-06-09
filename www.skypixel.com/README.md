@@ -6,10 +6,12 @@ https://www.skypixel.com/users/robomas-_user
 ## 实验过的环境要求
 
 浏览器: Mozilla Firefox 60.0.1 & Google Chrome 67.0.3396.79
+
 OS: Ubuntu 16.04 LTS
+
 Python: 3.5
 
-##　爬取方法
+## 爬取方法
 
 1. 安装 FireFox 对应的 [geckodriver](https://github.com/mozilla/geckodriver/releases), 或者安装 Chrome 对应的 web driver. 并且使用 pip 安装上 `selenium` 包。
 2. 进入[skypixel 网站 RoboMaster 用户界面](https://www.skypixel.com/users/robomas-_user), 按 F12 进入开发者模式。

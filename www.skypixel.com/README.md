@@ -6,7 +6,9 @@ https://www.skypixel.com/users/robomas-_user
 ## 实验过的环境要求
 
 浏览器: Mozilla Firefox 60.0.1 & Google Chrome 67.0.3396.79
+
 OS: Ubuntu 16.04 LTS
+
 Python: 3.5
 
 ## 爬取方法

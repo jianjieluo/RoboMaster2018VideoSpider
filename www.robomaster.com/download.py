@@ -13,11 +13,16 @@ if __name__ == '__main__':
 
     error_name = []
 
+    if os.path.isdir('./videos') is not True:
+        os.mkdir('./videos')
+
     wgetCommand = "wget -c --tries=4 --read-timeout=60 %s -O ./videos/%s.mp4"
 
     for item in videos:
         item['name'] = item['name'].replace(' ', '_')
         item['name'] = item['name'].replace('&', 'and')
+        item['name'] = item['name'].replace('（', '(')
+        item['name'] = item['name'].replace('）', ')')
 
         # 检查如果发现已经有了就不需要再下载
         if os.path.isfile('./videos/%s.mp4' % (item['name'])):

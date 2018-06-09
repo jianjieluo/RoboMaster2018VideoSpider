@@ -37,16 +37,10 @@ lis = ul.children;
 function getSrcWrap(index) {
   let li = lis[index];
   return function getSrc() {
-    // // Test 
-    // if (index > 5) {
-    //   return;
-    // }
     name = li.children[1].innerText;
     li.click();
     setTimeout(() => {
       videosrc = ori_doc.getElementsByTagName('iframe')[0].src;
-      // srcs.push(ori_doc.getElementsByTagName('iframe')[0].src);
-      // filenames.push(name);
       videos.push({ "name": name, "src": videosrc });
       ori_doc.getElementsByClassName('modal-mask')[0].click();
       if (index < lis.length - 1) {
@@ -59,4 +53,4 @@ function getSrcWrap(index) {
 getSrcWrap(0)();
 
 // after crawling, run this below to save the res
-console.save(videos, 'data.txt')
+// console.save(videos, 'data.txt')

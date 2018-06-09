@@ -12,17 +12,16 @@ driver = webdriver.Firefox()
 driver.implicitly_wait(5)
 
 
-def base_download(video_name, video_src, check_dict=None):
+def base_download(video_name, video_src):
     wgetCommand = "wget -c --tries=4 --read-timeout=60 %s -O ./videos/%s.mp4"
-
-    if check_dict is not None:
-        for item in check_dict:
-            if item['name'] == video_name:
-                print(video_name, " already has been downloaded.")
-                return None
 
     video_name = video_name.replace(' ', '_')
     video_name = video_name.replace('&', 'and')
+    video_name = video_name.replace('（', '(')
+    video_name = video_name.replace('）', ')')
+
+    if os.path.isfile('./videos/%s.mp4' % (video_name)):
+        return
 
     try:
         os.system(wgetCommand % (video_src, video_name))
@@ -37,11 +36,10 @@ if __name__ == '__main__':
     logging.basicConfig(level=logging.DEBUG)
     logger = logging.getLogger(__name__)
 
-    with open('data.txt') as json_data:
-        check_dict = json.loads(json_data.read())
-        json_data.close()
+    if os.path.isdir('./videos') is not True:
+        os.mkdir('./videos')
 
-    with open('new_video_links.txt') as json_data:
+    with open('data.txt') as json_data:
         sky_urls = json.loads(json_data.read())
         json_data.close()
 
@@ -49,17 +47,17 @@ if __name__ == '__main__':
     for sky_url in sky_urls:
         driver.get(sky_url)
 
-        time.sleep(2)
+        time.sleep(3)
         iframe = driver.find_element_by_tag_name('iframe')
         video_name = iframe.get_attribute('title')
         iframe_url = iframe.get_attribute('src')
         driver.get(iframe_url)
 
-        time.sleep(2)
+        time.sleep(3)
         video = driver.find_element_by_tag_name('video')
         video_url = video.get_attribute('src')
 
-        base_download(video_name, video_url, check_dict=check_dict)
+        base_download(video_name, video_url)
 
     driver.quit()
     print("Download completed!")

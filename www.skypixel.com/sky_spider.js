@@ -41,4 +41,4 @@ for (var i = 0; i < blocks.length; ++i) {
 }
 
 // after crawling, run this below to save the res
-console.save(video_links, 'new_video_links.txt')
+// console.save(video_links, 'data.txt')
